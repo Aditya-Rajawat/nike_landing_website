@@ -32,10 +32,10 @@
   ```
   
 - Add the Tailwind directives to your CSS
-```
+  ```
   @tailwind base;
   @tailwind components;
   @tailwind utilities;
-```
+  ```
 
 
