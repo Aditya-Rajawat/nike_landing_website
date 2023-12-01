@@ -1,3 +1,3 @@
-# Landing Page of Nike Website w/ Tailwind CSS
+# Nike Website
 
-- Live Website : https://nike-landing-page-1.netlify.app/
+- *Live Website : https://nike-landing-page-1.netlify.app/*
